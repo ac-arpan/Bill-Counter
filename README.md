@@ -1,3 +1,5 @@
+This is a Front-End applications made with React. It doesn't use any back-end. But it stores the trasactions in Local Storage.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
